@@ -2,7 +2,7 @@
 
 Every few years someone shouts, “This is it! Devs are done! WE DID IT NO CODE!!!” Then we carry on coding, because, spoiler alert, tools don’t replace creativity, they amplify it. Want the full breakdown?
 
-<a href="https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/" target="_blank" rel="noopener noreferrer">Check out The Recurring Cycle of Developer Replacement Hype</a>
+[Check out The Recurring Cycle of Developer Replacement Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
 
 It shows how these doomsday predictions keep recycling like old memes and why devs always come out stronger on the other side. Key points:
 . New tech waves tend to hype “the end of developers,” but they never quite deliver.

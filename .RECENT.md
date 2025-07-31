@@ -1,9 +1,9 @@
----
+<!-- 
 title: "MAS Driven Features"
 date: 2025‑07‑31
 description: "A concise tour of how Multi‑Agent Systems supercharge Feature‑Driven Development."
 tags: [agile, FDD, MAS, software‑engineering, process‑improvement]
----
+-->
 
 ## Strategic MAS usage - Feature definition with Multi Agentic Systems
 

@@ -8,7 +8,7 @@ tags: [agile, FDD, MAS, software‑engineering, process‑improvement]
 ## Strategic MAS usage - Feature definition with Multi Agentic Systems
 
 Feature‑Driven Development (FDD) thrives on fast, feature‑centric iterations, yet it still leans on human orchestration for coordination, prioritisation and feedback cycling.  
-The paper **“Multi‑Agent System Adaptation for Feature‑Driven Development Methodology”** proposes a pragmatic upgrade: embed a swarm of autonomous software agents straight into every FDD stage. The result is a pipeline that **decides, designs, builds and verifies features with far less manual friction**. :contentReference[oaicite:6]{index=6}
+The paper **“Multi‑Agent System Adaptation for Feature‑Driven Development Methodology”** proposes a pragmatic upgrade: embed a swarm of autonomous software agents straight into every FDD stage. The result is a pipeline that **decides, designs, builds and verifies features with far less manual friction**.
 
 ## Why agents fit FDD so well
 
@@ -40,7 +40,7 @@ The authors stress that MAS extend FDD without rewriting its DNA; they simply in
 
 * **User Interface Blackboard** – exposes every agent action to the team so progress stays transparent.  
 * **Features Blackboard** – synchronises backlog changes, design notes and dependency data.  
-* **Development Blackboard** – coordinates sprint cadence and code hand‑offs inside the dev–test micro‑loop. :contentReference[oaicite:7]{index=7}  
+* **Development Blackboard** – coordinates sprint cadence and code hand‑offs inside the dev–test micro‑loop. 
 
 *Figure 2 on page 5 of the paper sketches the full topology: agents orbit these boards, dropping messages, picking up tasks and never blocking one another.*
 
@@ -49,7 +49,7 @@ The authors stress that MAS extend FDD without rewriting its DNA; they simply in
 1. **Planning latency drops** because agents pre‑screen requirements and feed a continuously sorted feature list to designers.  
 2. **Code quality rises** thanks to immediate, agent‑driven testing after every commit.  
 3. **Scalability improves** since workload simply equals number of active agents, not size of the human team.  
-4. **Documentation stays fresh** – the Feedback Agent pushes final feature data into a structured SRS table (sample provided on page 7). :contentReference[oaicite:8]{index=8}  
+4. **Documentation stays fresh** – the Feedback Agent pushes final feature data into a structured SRS table (sample provided on page 7).
 
 ## Implementation hints
 
@@ -65,4 +65,4 @@ MAS Driven Development is therefore not a wholesale methodology swap; it is a **
 
 ---
 
-*Based on* **Yousef & Darbi, 2025, “Multi‑Agent System Adaptation for Feature‑Driven Development Methodology.”** :contentReference[oaicite:9]{index=9}, Source: https://aaasjournals.com/index.php/ajapas/article/view/1316/1226
+*Based on* **Yousef & Darbi, 2025, “Multi‑Agent System Adaptation for Feature‑Driven Development Methodology.”**, Source: https://aaasjournals.com/index.php/ajapas/article/view/1316/1226

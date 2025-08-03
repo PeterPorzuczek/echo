@@ -1,0 +1,33 @@
+## FB Python Case
+
+After watching the YouTube video about Meta’s long journey migrating from Python 2 to Python 3, it’s possible to outline the specific steps that made the transition successful. The migration wasn’t just about updating syntax—it required building internal tools, mobilizing hundreds of engineers, and running a full-scale internal campaign to get everyone on board. Below is a summary of the key actions that enabled this massive technical and organizational shift.
+
+### Key actions taken during the migration:
+
+1. **Waiting for the ecosystem to mature**
+   Meta did not switch to Python 3 immediately. The team waited until external tools like `lib2to3` became stable and until Python 3 itself offered more backwards compatibility.
+
+2. **Building internal codemod tools**
+   Meta developed its own suite of codemod tools—automated scripts that rewrote Python 2 code into Python 3 syntax. These tools were tailored for Meta’s internal code and covered edge cases that external tools couldn’t handle.
+
+3. **Creating a scanning system**
+   The team built scanners to detect Python 2 code across the codebase. These scanners attempted to identify the owner of each file or module automatically.
+
+4. **Generating automatic tickets for code owners**
+   Once code was identified, the system created tickets and assigned them to the appropriate owners. Each ticket included instructions to run the codemod tool, with support available if the migration failed.
+
+5. **Providing technical support for edge cases**
+   For cases that couldn’t be automatically migrated—especially due to Unicode issues—the migration lead or other experts manually intervened to rewrite and test the affected code.
+
+6. **Running a company-wide internal marketing campaign**
+   To encourage adoption and awareness, posters were placed across Meta’s offices, using Python 3 features like f-strings as promotional material. Stickers were printed and distributed to reinforce the message: “Python 2 is dead.”
+
+7. **Celebrating the completion internally**
+   After the migration was declared complete, Meta organized celebratory posts and events to mark the milestone and acknowledge the effort involved.
+
+8. **Enforcing the switch post-migration**
+   Even after completion, the migration lead rejected requests to bring Python 2.7 back into the system and enforced the company’s stance on using Python 3 exclusively.
+
+This structured approach—combining automation, developer outreach, and a touch of internal PR—allowed Meta to successfully transition one of the largest Python codebases in the world.
+
+Source: [https://www.youtube.com/watch?v=LJByWKOcW24](https://www.youtube.com/watch?v=LJByWKOcW24)

@@ -1,4 +1,11 @@
-## FB Python Case
+<!-- 
+title: "FB Python Case - The Python Migration That Took Years"
+date: 2025‑08‑03
+description: "A breakdown of the key steps Meta took to migrate company-wide from Python 2 to Python 3—based on real-world lessons."
+tags: [python, migration, meta, software‑engineering, tooling]
+-->
+
+## FB Python Case - The Python Migration That Took Years
 
 After watching the YouTube video about Meta’s long journey migrating from Python 2 to Python 3, it’s possible to outline the specific steps that made the transition successful. The migration wasn’t just about updating syntax—it required building internal tools, mobilizing hundreds of engineers, and running a full-scale internal campaign to get everyone on board. Below is a summary of the key actions that enabled this massive technical and organizational shift.
 

@@ -17,10 +17,10 @@ Where Bash scripts and Python modules once demanded rigorous syntax, natural lan
 The everyday use of AI still hovers in “chatland,” where queries are posed once and results are copied elsewhere. While this conversational mode suits exploration, it cannot sustain continuous operations. Defining reusable workflows in text breaks through this limitation and elevates AI from assistant to collaborator.
 
 ### SOPs and Organizational Chaos
-Organizations often document procedures as SOPs rather than structured flowcharts. These prose-like instructions mirror the language that coding agents now consume. In practice, companies behave less like machines and more like “Garbage Can” systems—collections of tacit rules, ad hoc decisions, and undocumented knowledge. Automating within such turbulence requires a language both flexible and formal: natural language augmented with executable precision.
+Organizations often document procedures as SOPs rather than structured flowcharts. These prose-like instructions mirror the language that coding agents now consume. In practice, companies behave less like machines and more like “Garbage Can” systems, collections of tacit rules, ad hoc decisions, and undocumented knowledge. Automating within such turbulence requires a language both flexible and formal: natural language augmented with executable precision.
 
 ### The Bitter Lesson for Business
-Instead of mapping every microscopic step, businesses can encode the quality of outcomes. By defining benchmarks—what a successful sales report or polished customer response should look like—AI agents are evaluated against results rather than rigid procedures. The models find their own pathways through organizational clutter, often more efficient than human-designed routes.
+Instead of mapping every microscopic step, businesses can encode the quality of outcomes. By defining benchmarks, what a successful sales report or polished customer response should look like, AI agents are evaluated against results rather than rigid procedures. The models find their own pathways through organizational clutter, often more efficient than human-designed routes.
 
 ### The Core Bottleneck
 AI has achieved near-Olympiad mastery in mathematics yet stumbles on simple office routines. The gap lies not in intelligence but in articulation. The difficulty is specifying the intent and context clearly enough for an agent to act. This makes process description the true frontier, not model capacity.

@@ -1,4 +1,11 @@
-## So, apparently, “No-code” and AI are about to wipe out developers… again. 👀 We’ve been here before.
+<!-- 
+title: "No-Codefall Myth - The Recurring Cycle of Developer Replacement Hype"
+date: 2025-08-15
+description: "Exploring why predictions about no-code and AI replacing developers keep recycling, and why developers always come out stronger."
+tags: [AI, no-code, software-engineering, developer-hype, automation]
+-->
+
+## So, apparently, "No-code" and AI are about to wipe out developers… again. 👀 We've been here before.
 
 Every few years someone shouts, “This is it! Devs are done! WE DID IT NO CODE!!!” Then we carry on coding, because, spoiler alert, tools don’t replace creativity, they amplify it. Want the full breakdown?
 

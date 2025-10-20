@@ -1,3 +1,9 @@
+<!-- 
+title: "Vape Crisis - The Hidden Health Risks of E-Cigarettes"
+date: 2025-08-05
+description: "Examining alarming statistics on youth e-cigarette use and the serious lung disease risk known as 'popcorn lung'."
+tags: [health, e-cigarettes, public-health, youth, safety]
+-->
 
 ## 📢 Alarming Statistics on E-Cigarette Use Among Youth – Are We Aware of the Risks?
 

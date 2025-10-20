@@ -1,3 +1,10 @@
+<!-- 
+title: "Signals of Absence - Testing AI's Ability to Detect Missing Information"
+date: 2025-08-10
+description: "An analysis of AbsenceBench research showing how language models struggle to detect removed or missing content."
+tags: [AI, research, benchmarking, LLM, content-detection]
+-->
+
 ## AbsenceBench Overview
 
 We've gotten used to AI models impressing us with their incredible ability to quickly find precise bits of information in huge amounts of data. But lately, I've been wondering, how good are they at noticing when something's missing?

@@ -1,3 +1,10 @@
+<!-- 
+title: "Zalando LLM Case - Automating UI Component Library Migrations"
+date: 2025-08-01
+description: "Insights from Zalando engineering on using LLMs to efficiently migrate complex UI component libraries."
+tags: [LLM, UI-migration, automation, component-library, software-engineering]
+-->
+
 ## 🤖 Automating UI Component Library Migrations with LLMs
 
 Great read from Zalando engineering on using LLMs to migrate complex UI component libraries efficiently. In my own work, I've faced similar challenges, managing manual migrations or complicated codemods can quickly become overwhelming.

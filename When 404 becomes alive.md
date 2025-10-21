@@ -33,6 +33,6 @@ MarkdownsPeek isn’t trying to be a platform. It doesn’t lock you in or resha
 
 ### Why it matters
 
-Publishing doesn’t need to be a system; it can be a gesture. A repo can be a place of thought, not just code. Sometimes the simplest tools give ideas the most direct path to daylight.
+Publishing doesn’t need to be a system. It can be a gesture. A repo can be a place of thought, not just code. Sometimes the simplest tools give ideas the most direct path to daylight.
 
 👉 [**markdowns-peek on npm**](https://www.npmjs.com/package/markdowns-peek)

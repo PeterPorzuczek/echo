@@ -1,6 +1,7 @@
 <!-- 
 title: "Zalando LLM Case - Automating UI Component Library Migrations"
 date: 2025-08-01
+author: Piotr Porzuczek
 description: "Insights from Zalando engineering on using LLMs to efficiently migrate complex UI component libraries."
 tags: [LLM, UI-migration, automation, component-library, software-engineering]
 -->

@@ -1,6 +1,7 @@
 <!-- 
 title: "Wave of Natlang"
 date: 2025-08-20
+author: Piotr Porzuczek
 description: "Exploring how natural language evolves from chat-based queries into executable workflows, reshaping automation in organizations."
 tags: [AI, automation, natural-language, workflow, software-engineering]
 -->

@@ -1,6 +1,7 @@
 <!-- 
 title: "No-Codefall Myth - The Recurring Cycle of Developer Replacement Hype"
 date: 2025-08-15
+author: Piotr Porzuczek
 description: "Exploring why predictions about no-code and AI replacing developers keep recycling, and why developers always come out stronger."
 tags: [AI, no-code, software-engineering, developer-hype, automation]
 -->

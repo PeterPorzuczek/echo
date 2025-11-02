@@ -1,6 +1,7 @@
 <!-- 
 title: "MAS Driven Features"
 date: 2025‑07‑31
+author: Piotr Porzuczek
 description: "A concise tour of how Multi‑Agent Systems supercharge Feature‑Driven Development."
 tags: [agile, FDD, MAS, software‑engineering, process‑improvement]
 -->

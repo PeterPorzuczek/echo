@@ -1,6 +1,7 @@
 <!-- 
 title: "Signals of Absence - Testing AI's Ability to Detect Missing Information"
 date: 2025-08-10
+author: Piotr Porzuczek
 description: "An analysis of AbsenceBench research showing how language models struggle to detect removed or missing content."
 tags: [AI, research, benchmarking, LLM, content-detection]
 -->

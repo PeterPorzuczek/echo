@@ -1,6 +1,7 @@
 <!-- 
 title: "FB Python Case - The Python Migration That Took Years"
 date: 2025‑08‑03
+author: Piotr Porzuczek
 description: "A breakdown of the key steps Meta took to migrate company-wide from Python 2 to Python 3, based on real-world lessons."
 tags: [python, migration, meta, software‑engineering, tooling]
 -->

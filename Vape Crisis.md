@@ -1,6 +1,7 @@
 <!-- 
 title: "Vape Crisis - The Hidden Health Risks of E-Cigarettes"
 date: 2025-08-05
+author: Piotr Porzuczek
 description: "Examining alarming statistics on youth e-cigarette use and the serious lung disease risk known as 'popcorn lung'."
 tags: [health, e-cigarettes, public-health, youth, safety]
 -->

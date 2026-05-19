@@ -1,7 +1,7 @@
 <!-- 
 title: "Pay later"
 date: 2026-03-27
-author: Editorial Team
+author: Piotr Porzuczek
 description: "A condensed reflection on why buy now, pay later is unlikely to trigger a systemic financial crisis, yet still has the power to quietly damage personal finances at scale."
 tags: [Finance, Debt, BNPL]
 -->

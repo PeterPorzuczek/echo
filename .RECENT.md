@@ -1,6 +1,6 @@
 <!-- 
 title: "The browser that learned to look ordinary"
-date: 2026-05-19
+date: 2026-07-19
 author: Piotr Porzuczek
 description: "A short look at CloakBrowser, proxy rotation, CAPTCHA pressure, and why stealth automation is moving from scripts into the browser itself."
 tags: [Automation, Browser, Scraping, Proxy, CAPTCHA]
